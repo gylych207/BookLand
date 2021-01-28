@@ -26,5 +26,15 @@
 #### Wireframes
 https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 
+#### Component Tree
+
+#### Component Hierarchy
+
+#### Time Estimates
+| Task                | Priority | Estimated Time | Time Invested | Actual Time |
+| ------------------- | :------: | :------------: | :-----------: | :---------: |
+| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
+| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
+| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
 
 
