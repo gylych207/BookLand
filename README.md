@@ -30,6 +30,27 @@ https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 https://www.figma.com/file/ZrpzgNjpGQiZTD1yN2LlCh/Untitled?node-id=0%3A1
 
 #### Component Hierarchy
+src
+|__ containers/
+      |__ MainContainer.jsx
+|__ layouts/
+      |__Layout.jsx
+|__ Screens/
+      |__Landing.jsx
+      |__BookInfo.jsx
+      |__Login.jsx
+      |__Register.jsx
+      |__BookInfo.jsx
+      |__Sell your Book.jsx
+      |__ShoppingCard.jsx
+      |__Customize Book.jsx
+      |__Extension Reqest.jsx
+|__ services/
+      |__api-config.js
+      |__auth.js
+      |__books.js
+      |__articles.js
+      |__users.js
 
 #### Time Estimates
 | Task                | Priority | Estimated Time | Time Invested | Actual Time |
