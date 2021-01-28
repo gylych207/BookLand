@@ -24,7 +24,7 @@
 ### Client (Front End)
 
 #### Wireframes
-https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
+https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/
 
 #### Component Tree
 https://www.figma.com/file/ZrpzgNjpGQiZTD1yN2LlCh/Untitled?node-id=0%3A1
