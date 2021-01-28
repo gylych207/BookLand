@@ -15,7 +15,7 @@
 | :--------------: | :----------------------------------------- |
 |      React       | for front end Development.                 |
 |   React Router   | to set up react routes |
-|     axios        | as a api call tool|
+|     axios        | as a api call library|
 |     bcrypt       | for the the authenctication |
 |     cors         | to serve frond end and backend|
 
@@ -31,11 +31,11 @@ https://www.figma.com/file/ZrpzgNjpGQiZTD1yN2LlCh/Untitled?node-id=0%3A1
 
 #### Component Hierarchy
 src
-|__ containers/
+- |__ containers/
       |__ MainContainer.jsx
-|__ layouts/
+- |__ layouts/
       |__Layout.jsx
-|__ Screens/
+- |__ Screens/
       |__Landing.jsx
       |__BookInfo.jsx
       |__Login.jsx
@@ -45,7 +45,7 @@ src
       |__ShoppingCard.jsx
       |__Customize Book.jsx
       |__Extension Reqest.jsx
-|__ services/
+- |__ services/
       |__api-config.js
       |__auth.js
       |__books.js
@@ -84,7 +84,6 @@ src
 | TOTAL               |          |     64 hrs     |     N/A       |    N/A      |
 
 #### ERD Model
-https://lucid.app/lucidchart/invitations/accept/a2b48a76-10f5-464d-8e88-b564fc379c1e
 https://lucid.app/lucidchart/invitations/accept/2ff99da0-249f-4425-9c1a-f89b5a37a55c
 
 ## Post-MVP
@@ -93,5 +92,8 @@ https://lucid.app/lucidchart/invitations/accept/2ff99da0-249f-4425-9c1a-f89b5a37
 - Ask extension Section
 - Customizing shopping card 
 - Creating Sell your book Screen.
+- creating a wishlist
+- book return functionality
+
 
 
