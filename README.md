@@ -27,6 +27,7 @@
 https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 
 #### Component Tree
+https://www.figma.com/file/ZrpzgNjpGQiZTD1yN2LlCh/Untitled?node-id=0%3A1
 
 #### Component Hierarchy
 
@@ -64,6 +65,11 @@ https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 #### ERD Model
 https://lucid.app/lucidchart/invitations/accept/a2b48a76-10f5-464d-8e88-b564fc379c1e
 
-
+## Post-MVP
+- Implementing Sort and Filter
+- Creating Search
+- Ask extension Section
+- Customizing shopping card 
+- Creating Sell your book Screen.
 
 
