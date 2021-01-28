@@ -1,7 +1,7 @@
 
 
 ## Overview
-**BookRental** is a web application in which you can find books and articles for rent.
+**BookRental** is a web application in which you can find your favourite books to rent.
 
 ## MVP
 - Creating Landing Screen.
