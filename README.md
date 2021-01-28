@@ -13,11 +13,11 @@
 ### Libraries and Dependencies
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|      React       | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
-|  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
+|      React       | for front end Development.                 |
+|   React Router   | to set up react routes |
+|     axios        | as a api call tool|
+|     bcrypt       | for the the authenctication |
+|     cors         | to serve frond end and backend|
 
 <br>
 
@@ -49,7 +49,7 @@ src
       |__api-config.js
       |__auth.js
       |__books.js
-      |__articles.js
+      |__authors.js
       |__users.js
 
 #### Time Estimates
@@ -85,6 +85,7 @@ src
 
 #### ERD Model
 https://lucid.app/lucidchart/invitations/accept/a2b48a76-10f5-464d-8e88-b564fc379c1e
+https://lucid.app/lucidchart/invitations/accept/2ff99da0-249f-4425-9c1a-f89b5a37a55c
 
 ## Post-MVP
 - Implementing Sort and Filter
