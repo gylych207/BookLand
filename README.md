@@ -61,6 +61,9 @@ https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 | Update Form  styling|    M     |     2 hrs      |     0 hrs     |    N/A      |
 | TOTAL               |          |     64 hrs     |     N/A       |    N/A      |
 
+#### ERD Model
+https://lucid.app/lucidchart/invitations/accept/a2b48a76-10f5-464d-8e88-b564fc379c1e
+
 
 
 
