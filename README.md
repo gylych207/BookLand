@@ -24,6 +24,6 @@
 ### Client (Front End)
 
 #### Wireframes
-![https://www.figma.com/file/5w6xchTWep0x2ud0CqFgjS/Untitled?node-id=0%3A1](url)
+https://www.figma.com/file/5w6xchTWep0x2ud0CqFgjS/Untitled?node-id=0%3A1 (url)
 
 - Desktop Landing
