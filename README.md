@@ -37,7 +37,7 @@ https://xd.adobe.com/view/8c170485-3b4b-43ec-ada1-30c897aaf7d0-d944/ (url)
 | Set up tables.      |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Set up relations    |    H     |     3 hrs      |     0 hrs     |    N/A      |
 | Set up routes       |    H     |     3 hrs      |     0 hrs     |    N/A      |
-| Debugging.          |    H     |     5 hrs      |     0 hrs     |    N/A      |
+| Backend Debugging.  |    H     |     5 hrs      |     0 hrs     |    N/A      |
 | React Structure.    |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Landign Screen.     |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Landing S   Styling |    M     |     3 hrs      |     0 hrs     |    N/A      |
