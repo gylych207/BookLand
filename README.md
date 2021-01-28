@@ -1,7 +1,7 @@
 
 
 ## Overview
-**BookRental** is a web application in which you can find your favourite books to rent.
+**BookLand** is a web application in which you can find your favourite books to rent.
 
 ## MVP
 - Creating Landing Screen.
@@ -64,14 +64,13 @@ https://www.figma.com/file/VLkvALCj9l0iihuAWK4zyT/Untitled?node-id=1%3A2
 | TOTAL               |          |     61 hrs     |     N/A       |    N/A      |
 
 #### ERD Model
-https://lucid.app/lucidchart/invitations/accept/2ff99da0-249f-4425-9c1a-f89b5a37a55c
+https://lucid.app/lucidchart/invitations/accept/0b5022cc-58b9-42d4-8b91-52d839869b64
 
 ## Post-MVP
 - Implementing Sort and Filter
 - Creating Search
 - Ask extension Section
 - Customizing shopping card 
-- Creating Sell your book Screen.
 - creating a wishlist
 - book return functionality
 
