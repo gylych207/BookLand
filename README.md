@@ -39,7 +39,7 @@ https://www.figma.com/file/VLkvALCj9l0iihuAWK4zyT/Untitled?node-id=1%3A2
 | Set up tables.      |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Set up relations    |    H     |     3 hrs      |     0 hrs     |    N/A      |
 | Set up routes       |    H     |     3 hrs      |     0 hrs     |    N/A      |
-| Backend Debugging.  |    H     |     5 hrs      |     0 hrs     |    N/A      |
+| Backend Revision .  |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | React Structure.    |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Landign Screen.     |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Landing S   Styling |    M     |     3 hrs      |     0 hrs     |    N/A      |
@@ -61,7 +61,7 @@ https://www.figma.com/file/VLkvALCj9l0iihuAWK4zyT/Untitled?node-id=1%3A2
 | Login Screen Styling|    L     |     2 hrs      |     0 hrs     |    N/A      |
 | Update Form         |    H     |     2 hrs      |     0 hrs     |    N/A      |
 | Update Form  styling|    M     |     2 hrs      |     0 hrs     |    N/A      |
-| TOTAL               |          |     64 hrs     |     N/A       |    N/A      |
+| TOTAL               |          |     61 hrs     |     N/A       |    N/A      |
 
 #### ERD Model
 https://lucid.app/lucidchart/invitations/accept/2ff99da0-249f-4425-9c1a-f89b5a37a55c
